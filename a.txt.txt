@@ -1,0 +1,13 @@
+zero 제로
+one  원
+two 투
+three 쓰리
+four 포
+five 파이브
+six 식스
+seven 세븐
+eight 에잇
+nine 나인
+ten 텐
+
+changed
